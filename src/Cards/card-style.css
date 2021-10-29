@@ -1,0 +1,91 @@
+.card {
+    width: 20rem;
+    font-family: Space Mono;
+}
+
+.artIntro {
+    font-family: Space Mono;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.card-text {
+    font-size: 0.9rem;
+}
+
+.overflow {
+    overflow: hidden;
+}
+
+img {
+    object-fit: cover;
+}
+
+.text-banner {
+    display: block;
+    height: 40px;
+    width: 100%;
+    /* background-color: #fffc67ee; */
+    overflow: hidden;
+    margin-bottom: 100px;
+    font-family: play;
+}
+
+.text-banner__content { 
+    font-size: 0.9rem;
+    display: inline-block;
+    line-height: 40px;
+    padding-left: 100%;
+    white-space: nowrap;
+    animation: animate-banner 20s linear infinite;
+}
+
+.text-banner__content p {
+    line-height: 30px;
+}
+
+.text-banner__content > * {
+    display: inline-block;
+    }
+
+    @keyframes animate-banner {
+        0% {
+            transform: translateX(0);
+        }
+        100% {
+            transform: translateX(-100%);
+        }
+        }
+
+
+.instaBtn {
+    border: 1px solid #000000;
+    border-radius: 3rem;
+    padding: 10px 20px;
+    background-color:transparent;
+    margin-top: 50px;
+    font-family: Space Mono;
+
+    box-shadow: 8px 8px 0px 0px #f2ffa8, 8px 8px 0px 1px #000000;
+    background: #FFFFFF;
+
+    transition: all 0.3s;
+    
+}
+
+h5.card-title {
+    font-weight: 700;
+}
+
+.instaBtn:hover {
+    transform: translate( 8px, 8px);
+    box-shadow: none;
+}
+
+.instaBtn a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 1.4rem;
+    
+}
+

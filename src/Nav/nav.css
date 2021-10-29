@@ -1,0 +1,39 @@
+header {
+    backdrop-filter: blur(8px);
+}
+
+nav {
+    font-size: 1.2rem;
+    font-family: Space Mono;
+}
+
+.nav-link {
+    color: #000;
+}
+
+.nav-link:hover {
+    color: red;
+}
+
+ul {
+    height: 60px;
+}
+
+
+li a {
+    color: #000;
+    
+}
+
+
+.logo {
+    font-family: Asset;
+    font-size: 2rem;
+    height: 60px;
+}
+
+.logo a {
+    line-height: 60px;
+    text-decoration:none;
+    color: #000;
+}

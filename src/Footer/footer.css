@@ -1,0 +1,21 @@
+
+footer ul {
+    list-style-type: none;
+}
+
+footer li {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.footer li a:hover {
+    cursor: pointer;
+}
+
+
+
+footer .row {
+    width: 50%;
+    margin: 0 auto;
+    padding: 70px 0;
+}
