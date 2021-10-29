@@ -10,9 +10,8 @@ footer li {
 
 .footer li a:hover {
     cursor: pointer;
+    color: #fff;
 }
-
-
 
 footer .row {
     width: 50%;

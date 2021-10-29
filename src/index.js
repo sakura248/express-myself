@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css" 
@@ -11,9 +10,6 @@ import Top from './Top';
 import Favthings from './FavThings';
 import Footer from './Footer/Footer';
 // import Animation from './Animation/ScrollRevealContainer';
-
-
-
 
 ReactDOM.render(
   <React.StrictMode>

@@ -17,22 +17,22 @@ class Footer extends Component {
             <footer className="footer container-fluid bg-warning border-top border-dark">
                 <ul className="row">
                     <li className="col">
-                        <a href="#">
+                        <a href="https://twitter.com/s_calog">
                             <FontAwesomeIcon icon={faTwitter} />
                         </a>
                     </li>
                     <li className="col">
-                        <a href="">
+                        <a href="https://www.instagram.com/kobujimesaga/">
                             <FontAwesomeIcon icon={faInstagram} />
                         </a>
                     </li>
                     <li className="col">
-                        <a href="">
+                        <a href="https://zuisolog.com">
                             <FontAwesomeIcon icon={faWordpressSimple} />
                         </a>
                     </li>
                     <li className="col">
-                        <a href="">
+                        <a href="https://www.linkedin.com/in/sakura-nishiya">
                             <FontAwesomeIcon icon={faLinkedinIn} />
                         </a>
                     </li>

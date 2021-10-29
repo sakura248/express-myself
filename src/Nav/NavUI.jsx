@@ -7,7 +7,7 @@ class Nav extends Component {
             <header className="fixed-top container-fluid border-bottom border-dark">
                 <div className="row">
                     <div className="logo col-3">
-                        <a href="#">
+                        <a href="/">
                             Hi :)
                         </a>
                     </div>
@@ -24,7 +24,7 @@ class Nav extends Component {
                                 </a>
                             </li>
                             <li className="nav-item border-left border-dark">
-                                <a href="https://zuisolog.com" className="nav-link" target="_blank">
+                                <a href="https://zuisolog.com" className="nav-link" target="_blank" rel="noreferrer">
                                     Blog
                                 </a>
                             </li>

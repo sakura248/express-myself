@@ -39,7 +39,7 @@ class Top extends Component {
                                     I started reading the book “Release the Beast” written by Bimini Bon-Boulash. They are one of my favorite queens in DRUK S2. I guess they wrote about being non-binary, ...
                                     </p>
                                     <div className="text-end">
-                                        <a href="#" className="btn btn-outline-primary float-right"> Read more</a>
+                                        <a href="https://zuisolog.com" className="btn btn-outline-primary float-right"> Read more</a>
                                     </div>
                                 </div>
                             </div>
@@ -55,7 +55,7 @@ class Top extends Component {
                                         Last night, Oct 20th, I finally could go to “Night Of the Living Drag” hld by Voss event in Vancouver. The show was great!!!!! My hands swollen cuz I gave applaus ...
                                     </p>
                                     <div className="text-end">
-                                        <a href="#" className="btn btn-outline-primary"> Read more</a>
+                                        <a href="https://zuisolog.com" className="btn btn-outline-primary"> Read more</a>
                                     </div>
                                 </div>
                             </div>
