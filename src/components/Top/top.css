@@ -1,0 +1,114 @@
+.wrapper {
+  height: 100vh;
+}
+
+.row {
+  height: 100%;
+}
+
+.side,
+.right-side {
+  margin: 0 auto;
+  padding-top: 400px;
+  position: relative;
+}
+
+.side:first-child {
+  background: url("./blob-scene-haikei.svg") no-repeat;
+  background-size: cover;
+}
+
+.right-side {
+  background: url("./blurry-gradient-haikei.svg") no-repeat;
+  background-size: cover;
+}
+
+.fu {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.sideWrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.line {
+  border: 1px solid #000;
+  margin-bottom: 10px;
+}
+
+.blogIntro {
+  font-family: VT323;
+  font-size: 2rem;
+}
+
+.blogcard h5 {
+  font-family: VT323;
+  font-size: 1.5rem;
+}
+
+.blogcard p,
+.blogcard a {
+  font-family: VT323;
+  font-size: 1.2rem;
+}
+
+.side img {
+  width: 300px;
+  height: 300px;
+}
+
+.blogcard {
+  width: 30rem;
+  margin: 50px;
+  box-shadow: 15px 15px 0px 0px #f2ffa8, 15px 15px 0px 1px #000000;
+  background: #ffffff;
+  transition: all 0.3s;
+}
+
+.blogcard:hover {
+  transform: translate(8px, 8px);
+  box-shadow: 7px 7px 0px 0px #f2ffa8, 7px 7px 0px 1px #000000;
+}
+
+.card-body .btn {
+  border-radius: 3rem;
+}
+
+.contactBtn {
+  color: #000;
+}
+
+.selfIntro {
+  /* width: 100%; */
+  font-size: 4rem;
+  transform: translate(0%, 200%);
+  font-family: Play;
+}
+
+.contact {
+  font-size: 3rem;
+  bottom: 8%;
+  left: 93%;
+}
+
+.contact p {
+  font-size: 1rem;
+  font-family: Space Mono;
+}
+
+.rotate-container {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+.circle-text {
+  border-radius: 50%;
+}
