@@ -80,9 +80,9 @@ class Top extends Component {
               <FontAwesomeIcon icon={faHandPeace} className="contactBtn" />
             </a>
             <div className="rotate-container">
-              <p className="circle-text">
+              {/* <p className="circle-text">
                 Contact me! 📧　~ Contact me! 📧　~ Contact me! 📧　~
-              </p>
+              </p> */}
             </div>
           </div>
         </div>
