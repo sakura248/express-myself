@@ -1,6 +1,8 @@
 # Show Myself Project
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f93db149-1c7f-4909-898b-3d0d8d613eb2/deploy-status)](https://app.netlify.com/sites/quizzical-mclean-379071/deploys) 🚀
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f93db149-1c7f-4909-898b-3d0d8d613eb2/deploy-status)](https://app.netlify.com/sites/quizzical-mclean-379071/deploys) 
+
+[VIEW LIVE](https://quizzical-mclean-379071.netlify.app/) 🚀
 
 ## Description
 
