@@ -5,7 +5,7 @@ class Nav extends Component {
   render() {
     return (
       <header className="fixed-top container-fluid border-bottom border-dark">
-        <div className="row">
+        <div className="row align-items-center">
           <div className="logo col-3">
             <a href="/">Hi :)</a>
           </div>
