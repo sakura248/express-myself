@@ -9,4 +9,4 @@ This is the first React app I made. The purpose of this website is just to show 
 ## Technologies
 
 - React
-- CSS3
+- Bootstrap

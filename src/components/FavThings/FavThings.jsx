@@ -16,7 +16,7 @@ class Favthings extends Component {
           </div>
           <p className="text-center">
             {favs.map((item) => (
-              <span>{item}</span>
+              <span> {item} </span>
             ))}
           </p>
         </div>

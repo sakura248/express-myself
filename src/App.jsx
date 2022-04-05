@@ -1,5 +1,4 @@
 import React from "react";
-import ReactDOM from "react-dom";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import Card from "./components/Cards/Cards";
 import Favthings from "./components/FavThings/FavThings";
@@ -8,13 +7,16 @@ import Nav from "./components/Nav/NavUI";
 import Top from "./components/Top/Top";
 import "./index.css";
 
-ReactDOM.render(
-  <React.StrictMode>
-    <Nav />
-    <Top />
-    <Card />
-    <Favthings />
-    <Footer />
-  </React.StrictMode>,
-  document.getElementById("root")
-);
+export function App() {
+  return (
+    <React.StrictMode>
+      <Nav />
+      <Top />
+      <Card />
+      <Favthings />
+      <Footer />
+    </React.StrictMode>
+    // document.getElementById("root")
+  );
+}
+export default App;

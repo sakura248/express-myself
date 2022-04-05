@@ -11,7 +11,7 @@ class Top extends Component {
       <div className="wrapper container-fluid">
         <div className="row">
           {/* left side */}
-          <div className="col border border-dark side ">
+          <div className="col-sm-6 border border-dark side ">
             <div className="sideWrapper">
               <img
                 src={
@@ -21,11 +21,11 @@ class Top extends Component {
                 alt=""
                 className="mx-auto fu"
               />
-              <p className="selfIntro">I'm Sakura.</p>
+              <p className="selfIntro text-center">I'm Sakura.</p>
             </div>
           </div>
           {/* right side */}
-          <div className="col border border-dark right-side container-fluid">
+          <div className="col-sm-6 border border-dark right-side container-fluid">
             <div className="sideWrapper">
               <p className="text-center blogIntro">Check My Blog!</p>
               <div className="card blogcard border-dark mb-3 rounded-0">
@@ -79,11 +79,6 @@ class Top extends Component {
             <a href="mailto:test@test.com" target="_blank" rel="noreferrer">
               <FontAwesomeIcon icon={faHandPeace} className="contactBtn" />
             </a>
-            <div className="rotate-container">
-              {/* <p className="circle-text">
-                Contact me! 📧　~ Contact me! 📧　~ Contact me! 📧　~
-              </p> */}
-            </div>
           </div>
         </div>
       </div>
