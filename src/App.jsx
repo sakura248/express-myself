@@ -16,7 +16,6 @@ export function App() {
       <Favthings />
       <Footer />
     </React.StrictMode>
-    // document.getElementById("root")
   );
 }
 export default App;
