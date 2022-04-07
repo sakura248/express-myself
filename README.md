@@ -6,7 +6,7 @@
 
 ## Description
 
-This is the first React app I made. The purpose of this website is just to show myself, since I'm not good at verbal explanation when it comes to my oneself. I designed the way I like, and put things I created or I love.
+This is the first React app I made. The purpose of this website is just to express myself, since I am a person with few words. I designed the way I like, and put the things I created or I love."
 
 ## Technologies
 
